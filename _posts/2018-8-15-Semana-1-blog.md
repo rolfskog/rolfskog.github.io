@@ -5,9 +5,9 @@ title: How not to sort by Average Rating
 
 ## How not to sort by Average Rating, [Evan Miller Blog](http://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
 
-Ell blog explora distintas formas de calcular scores, presentandonos primero average rating y (Positive ratings) − (Negative ratings) para luego explicar porque el score calculado mediante el lower bound of Wilson score es mejor.
+El blog explora distintas formas de calcular scores, presentandonos primero average rating y (Positive ratings) − (Negative ratings) para luego explicar porque el score calculado mediante el lower bound of Wilson score es mejor.
 
-### Discusion
+### Discusión
 
 #### Positivos
 
@@ -20,9 +20,3 @@ Ell blog explora distintas formas de calcular scores, presentandonos primero ave
 * El blog no describe como usar el Wilson score cuando tenemos ratings calcados de manera distinta, por ejemplo con estrellas. Esto significa que no explora las distintas implicancias de ir variando el umbral de corte y como afectaría los rankings. Esto tambien es importante para el blog ya que uno de los ejemplos provistos usa un formato de ratings con estrellas, lo cual hace que pareciera que no satisfaga tanto su punto.
 
 * El autor desea convencer al lector que las primeras dos soluciones son malas y no debiesen ser ocupadas. Esto lleva a que no especifica en que ocasiones estas formas de calcular el score son mejores o alguien desearía implementarlas. Hubiera sido interesante conocer los pros ademas del contra de esas opciones para poder convencer de manera mas competa y cuando el Wilson score es mejor. 
-
-
-### Extensiones posibles
-
-
-## Comentario Collaborative filtering recommender systems, [In The adaptive web ](https://pdfs.semanticscholar.org/d17d/3fa8083c4de1f5545446a1f59da54a1dba21.pdf)

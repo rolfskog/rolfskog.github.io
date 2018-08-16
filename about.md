@@ -8,4 +8,4 @@ Ingeniero civil computacion cuarto año en Pontificia Universidad Catolica de Ch
 
 ### Contact me
 
-[ceyzaguirre4@uc.cl](mailto:ceyzaguirre4@uc.cl)
+[rpskog@uc.cl](mailto:rpskog@uc.cl)
