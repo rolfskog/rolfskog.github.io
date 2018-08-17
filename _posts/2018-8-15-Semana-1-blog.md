@@ -3,7 +3,7 @@ layout: post
 title: How not to sort by Average Rating
 ---
 
-## How not to sort by Average Rating, [Evan Miller Blog](http://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
+## [Evan Miller Blog](http://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
 
 El blog explora distintas formas de calcular scores, presentandonos primero average rating y (Positive ratings) − (Negative ratings) para luego explicar porque el score calculado mediante el lower bound of Wilson score es mejor.
 
